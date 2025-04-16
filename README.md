@@ -11,8 +11,6 @@ The app leverages the Open-Meteo API via Retrofit to fetch accurate weather data
 
 🌡️ Temperature & Conditions: See daily highs, lows, and weather icons
 
-📶 Offline Support (Optional): View cached forecasts when offline
-
 🧠 Clean Architecture: Layered project structure for testable and scalable code
 
 🔁 Live Data Updates: Real-time updates using Flow and LiveData
